@@ -1,0 +1,20 @@
+.title {
+    letter-spacing: 10px;
+    text-align: center;
+    color: #FE0058;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-shadow: 10px 10px 50px  #FE0058,
+                10px 10px 100px  #FE0058,
+                10px 10px 150px  #FE0058;
+}
+
+.title h2 {
+    font-size: 4em;
+}
+
+.title p {
+    font-size: 6em;
+}
